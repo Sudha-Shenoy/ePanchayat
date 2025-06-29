@@ -15,7 +15,7 @@
 <p>1.Install XAMPP (if not already installed): 
    [https://www.apachefriends.org/index.html] <br>
 2.Install VS Code (if not already installed)  
-   [code.visualstudio.com/Download]<br>
+   [https://code.visualstudio.com/Download]<br>
 3.Download the given epanchayat zip to  `htdocs` folder of xampp. <br>
 4.Create a database named epanchayat in phpMyAdmin & import given epanchayat.sql file using phpMyAdmin.<br>
 5.Start Apache & MySQL in XAMPP Control Pannel.<br>
