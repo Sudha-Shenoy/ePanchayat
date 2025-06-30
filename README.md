@@ -12,16 +12,15 @@
 </ol>
 
 <h1>Installation & Project Setup (local) Instructions</h1>  
-<p>1.Install XAMPP (if not already installed): 
-   [https://www.apachefriends.org/index.html] <br>
-2.Install VS Code (if not already installed)  
-   [https://code.visualstudio.com/Download]<br>
-3.Download the given epanchayat zip to  `htdocs` folder of xampp. <br>
-4.Create a database named epanchayat in phpMyAdmin & import given epanchayat.sql file using phpMyAdmin.<br>
-5.Start Apache & MySQL in XAMPP Control Pannel.<br>
-5.Use web browser like Chrome, Microsoft Edge, Firefox.<br>
-6.Navigate to http://localhost/epanchayat/ to access the project.<br></p>
-
+<li>1.Install XAMPP (if not already installed): 
+   [https://www.apachefriends.org/index.html] </li><br>
+<li>2.Install VS Code (if not already installed)  
+   [https://code.visualstudio.com/Download]</li><br>
+<li>3.Download the given epanchayat zip to  `htdocs` folder of xampp.</li> <br>
+<li>4.Create a database named epanchayat in phpMyAdmin & import given epanchayat.sql file using phpMyAdmin.</li><br>
+<li>5.Start Apache & MySQL in XAMPP Control Pannel.</li><br>
+<li>5.Use web browser like Chrome, Microsoft Edge, Firefox.</li><br>
+<li>6.Navigate to http://localhost/epanchayat/ to access the project.</li><br>
 
 <h1>Credentials to be known in advance:</h1>
 <li>1.Village name = abc</li>
